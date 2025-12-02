@@ -2,7 +2,7 @@
 
 ## Prerequisites 先决条件
 
-- Python 3.6 or higher (Python 3.6 或更高版本)
+- Python 3.8 or higher (Python 3.8 或更高版本)
 - Git
 
 ## Installation 安装
@@ -94,11 +94,11 @@ python tests/test_main.py
 python examples/example_usage.py
 ```
 
-### Python version 错误
+### Python version issues Python版本问题
 
-This project requires Python 3.6+. Check your version:
+This project requires Python 3.8+. Check your version:
 
-本项目需要 Python 3.6+。检查你的版本：
+本项目需要 Python 3.8+。检查你的版本：
 
 ```bash
 python --version
